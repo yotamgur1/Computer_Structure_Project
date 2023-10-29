@@ -2,7 +2,7 @@
 
 ## Assembly Language Programs
 
-This readme provides an overview of three assembly language programs: **Sort (S)**, **Binom**, **Disktest**, and **Triangle (A, B, C)**. Each program has a specific purpose and structure. 
+This readme provides an overview of three assembly language programs: **Sort**, **Binom**, **Disktest**, and **Triangle (A, B, C)**. Each program has a specific purpose and structure. 
 
 ### Assembler
 
